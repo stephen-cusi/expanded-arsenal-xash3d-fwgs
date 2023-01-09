@@ -1,5 +1,5 @@
 # Expanded Arsenal [![Build Status](https://github.com/Velaron/expanded-arsenal/actions/workflows/build.yml/badge.svg)](https://github.com/Velaron/expanded-arsenal/actions) <img align="right" width="128" height="128" src="https://github.com/Velaron/expanded-arsenal/raw/main/android/app/src/main/ic_launcher-playstore.png" alt="Expanded Arsenal" />
-Expanded Arsenal: Android port.
+Expanded Arsenal: Android port. (This repository has been converted to an archive by the author)
 
 ## Donate
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/velaron)
